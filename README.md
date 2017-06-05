@@ -1,0 +1,2 @@
+# Rubik-sCubeNeuralNetwork
+A project of my own in which I was trying to solve a Rubik's Cube using machine learning as I could not solve it myself. This project was started as way for me to learn C++ and also explore machine learning. While it is currently a work in progress, it is currently able to learn to be able to consistently solve simple problems. I believe the next step to improve it is by increasing the number of nodes to decide the cubes next move.
